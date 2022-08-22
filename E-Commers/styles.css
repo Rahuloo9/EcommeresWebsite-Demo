@@ -654,6 +654,7 @@ padding: 150px 150px 0 150px;
     display: flex;
     align-items: center;
     width: 100%;
+    position: relative;
 
 }
 #blog .blog-img{
@@ -697,7 +698,16 @@ transition: 0.3s;
     background-color: #088178;
 }
 
+#blog .blog-box h1{
+    position: absolute;
+    top: -40px;
+    left: 0;
+    font-size: 70px;
+    font-weight: 700;
+    color: #c9cbce;
 
+
+}
 
 
 
