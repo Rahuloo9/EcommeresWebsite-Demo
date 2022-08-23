@@ -1,5 +1,6 @@
 
 //click any image  then change image index 
+//htsghshsm
 
 var Mainimage=document.getElementById("main");
 var smallimage=document.getElementsByClassName("small-image");
